@@ -96,7 +96,7 @@ printMessage('Twój ruch to: ' + playerMove);
 	printMessage('Ty przegrywasz!:(');
 } else if( playerMove == 'nieznany ruch'){
 	printMessage('Ups! Coś poszło nie tak!');
-} */
+}  */
 
 displayResult(playerMove, computerMove);
 console.log('moves:', argComputerMove, argPlayerMove);
