@@ -1,3 +1,4 @@
+{
 const printMessage = function(msg){
 	let div = document.createElement('div');
 	div.innerHTML = msg;
@@ -58,3 +59,4 @@ document.getElementById('play-paper').addEventListener("click", function () {
 document.getElementById('play-scissors').addEventListener("click", function () {
 	playGame('nożyce');
 });
+}
