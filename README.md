@@ -1,1 +1,1 @@
-https://karolinaa178.github.io/javascript-prework/docs/index.html
+https://karolinaa178.github.io/javascript-prework/index.html
